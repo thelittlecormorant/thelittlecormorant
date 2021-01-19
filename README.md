@@ -2,7 +2,7 @@
 
 I am The Little Cormorant. I like to solve day to day issues with the power of computers. Be it for a water drinking reminder app or a yoga studio app for online streaming, I  create them with utmost care and attention. Welcome to my GitHub repo.
 
-Please check thelittlecormorant.github.io for more details.
+Please check https://thelittlecormorant.github.io for more details.
 
 <!--
 **thelittlecormorant/thelittlecormorant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
